@@ -29,7 +29,7 @@ async def start_handler(_, event: Message):
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
                                     [InlineKeyboardButton("𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="http://t.me/Movies_searching_req_bot?startgroup=true")],
-                                    [InlineKeyboardButton("𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Telugu_Movies_Backup_2022"),
+                                    [InlineKeyboardButton("𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/+t_hkSpB_owpjNGI1"),
                                      InlineKeyboardButton("𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="https://t.me/+dkUtY_Ck5dc0Y2U1")],
                                     [InlineKeyboardButton("𝙷𝙴𝙻𝙿", callback_data="Help_msg"),
                                      InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃", callback_data="About_msg")]]))
@@ -82,7 +82,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="https://t.me/+dkUtY_Ck5dc0Y2U1")
 					],
 					[
-						InlineKeyboardButton("𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛", url="https://t.me/HBMoviesGod"),
+						InlineKeyboardButton("𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛", url="https://t.me/Spiner84"),
 						InlineKeyboardButton("𝙷𝙾𝙼𝙴", callback_data="gohome")
 					]
 				]
