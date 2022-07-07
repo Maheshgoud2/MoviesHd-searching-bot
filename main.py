@@ -39,7 +39,7 @@ async def help_handler(_, event: Message):
 
     await event.reply_text(Config.ABOUT_HELP_TEXT.format(event.from_user.mention),
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton("𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Telugu_Movies_Backup_2022"),
+            [InlineKeyboardButton("𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/+t_hkSpB_owpjNGI1"),
              InlineKeyboardButton("𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="https://t.me/+dkUtY_Ck5dc0Y2U1"), 
              InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃", callback_data="About_msg")]
         ])
