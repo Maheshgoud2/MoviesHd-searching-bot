@@ -38,7 +38,7 @@ class Config(object):
 
 𝙸 𝙲𝚊𝚗 𝚂𝚎𝚊𝚛𝚌𝚑 🔍 𝚆𝚑𝚊𝚝 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝❗
 
-<a>𝙼𝚊𝚍𝚎 𝚆𝚒𝚝𝚑 ❤ By @Movies_searching_req_bot</a></b>
+<a>𝙼𝚊𝚍𝚎 𝚆𝚒𝚝𝚑 ❤ By @Spiner84</a></b>
 """
 
 
@@ -49,7 +49,7 @@ class Config(object):
 
 𝙸 𝙲𝚊𝚗 𝚂𝚎𝚊𝚛𝚌𝚑 🔍 𝚆𝚑𝚊𝚝 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝❗
 
-<a>Made With ❤ By @Movies_searching_req_bot</a></b>
+<a>Made With ❤ By @Spiner84</a></b>
 """
 
 
