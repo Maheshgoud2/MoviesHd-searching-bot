@@ -28,7 +28,7 @@ async def start_handler(_, event: Message):
 	await event.reply_photo("https://telegra.ph/file/a8130cd39f999b8186671.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-                                    [InlineKeyboardButton("𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="http://t.me/{temp.U_NAME}?startgroup=true")],
+                                    [InlineKeyboardButton("𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="http://t.me/Mdisk_Auto_Filter_Bot?startgroup=true")],
                                     [InlineKeyboardButton("𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/+t_hkSpB_owpjNGI1"),
                                      InlineKeyboardButton("𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿", url="https://t.me/+dkUtY_Ck5dc0Y2U1")],
                                     [InlineKeyboardButton("𝙷𝙴𝙻𝙿", callback_data="Help_msg"),
